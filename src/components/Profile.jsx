@@ -4,7 +4,7 @@ import Porfile from '../assets/Profile.png'
 import pdf from '../assets/Nathan_Dinh_-_12_22_2024.pdf'
 
 function Profile(){
-    return(<div className="w-full mx-auto flex">
+    return(<div className="w-full mx-auto flex md:flex-row flex-col-reverse">
         <div className="w-full">
             <div className="w-[85%]">
                 <div className="flex text-2xl">
@@ -42,7 +42,7 @@ function Profile(){
             </a>
             </div>
         </div>
-        <div className="w-2/5">
+        <div className="w-2/5 mb-5">
             <img src={Porfile} alt='Profile'  className="w-full h-auto rounded-md shadow-2xl border-4 border-[#1E2A34]"/>
         </div>
       </div>)

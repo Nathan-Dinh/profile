@@ -7,7 +7,7 @@ function App() {
   return (
     <div className='font-sans h-screen p-5'>
       <div className="flex justify-around">
-        <div className="h-screen max-w-full md:max-w-[40%] flex flex-col justify-between">
+        <div className="h-screen max-w-full md:lg:max-w-[60%] lg:max-w-[40%] flex flex-col justify-between">
           <div>
             <Navigation/>
             <RouterProvider router={AppRouter} />
