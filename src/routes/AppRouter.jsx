@@ -3,7 +3,7 @@ import Index from "../pages/Index"
 
 const routes = createBrowserRouter ([
     {
-        path: '/',
+        path: '/profile',
         element:  <Index/>, 
     }
 ])
