@@ -1,4 +1,4 @@
-import ToggleSwitch from "./ToggleSwitch";
+// import ToggleSwitch from "./ToggleSwitch";
 
 function Journey() {
   return (
@@ -9,7 +9,7 @@ function Journey() {
   <div className="w-full h-auto pl-14 bg-[#020610] rounded-lg shadow-xl border border-[#1E2A34]">
     <div className="w-full h-full border-l border-[#1E2A34] relative p-5">
       <img
-        src="https://tpc.googlesyndication.com/simgad/11787384147970189080?sqp=-oaymwEKCCAQICABUAFYAQ&rs=AOga4qmg5zym8EuxycM-Q7PeiwZo3ifz5Q"
+        src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxGyUfLT0tMTU3OjcuHis9OD84SDQtREIBCgoKDQwNGg8PGjclHyU4NzM3Nzc3NzcxNzE3Mi0zLi03Nzc3NTg3NzI1Nzg3NTc3Nzc4KzcrKzU4ODcrNzcrK//AABEIABwAHAMBEQACEQEDEQH/xAAaAAACAgMAAAAAAAAAAAAAAAAABAMFAQIH/8QAJRAAAQQCAAUFAQAAAAAAAAAAAQACAwQREgUhMUFRFCNxgdET/8QAGQEAAwEBAQAAAAAAAAAAAAAAAAEDBAIF/8QAHxEAAgICAgMBAAAAAAAAAAAAAAECAxExBBNRkaES/9oADAMBAAIRAxEAPwDn2yADZABsgDGUCyWVHhTJq8U0szvcaSGsHTB7ledfzXCbhGOvJsq4ylFSk9ilk0IZP5tdYeWuw48gPrkr1S5E1+nheziapi8LPwcrUaVuJ0kMtkBo55aDj9ULOTfU0pJFI01TWYtldxGH0Nt9cv31wdgMdR4Wzj291anjBmur6puOciLJ3xkmN7mE92nCo4qW0cJtaJTxC0etmQ/LsqaprWonfbPyavu2XjDrEpHjc4TVVa1FA7JvbItlUngiSGCBggRglAH/2Q=="
         alt="Cineplex"
         width="w-10"
         height="h-auto"
