@@ -20,7 +20,7 @@ function Journey() {
         <h2 className="text-lg font-bold">Cineplex</h2>
         <h3 className="text-md font-medium text-gray-400">Cast Member</h3>
         <div >
-          <p>Managed food preparation and service in the VIP section, ensuring high standards of cleanliness and organization. Coordinated with team members during peak hours to ensure smooth operations and deliver quick, efficient meals to guests.</p>
+          <p>Managed food preparations and service in the VIP section, ensuring high standards of cleanliness and organization. Coordinated with team members during peak hours to ensure smooth operations and deliver quick, efficient meals to guests.</p>
         </div>
       </div>
     </div>
